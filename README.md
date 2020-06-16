@@ -1,2 +1,2 @@
 # contact-mailer
-Simple mailer Node application.
+Simple Node email application.
